@@ -1,2 +1,2 @@
 # Operating-System-
-OS assignments
+OS class projects
