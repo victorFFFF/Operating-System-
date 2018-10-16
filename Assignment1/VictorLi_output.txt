@@ -1,0 +1,26 @@
+Successful allocation.
+
+Creating a notepad process with pid 2553
+Creating a notepad process with pid 4637
+Creating a notepad process with pid 4924
+
+
+Before releasing  booleanArray [2553]:true
+Before releasing  processArray [2553]:true
+PID 2553 is released.
+After releasing  booleanArray [2553]:false
+After releasing  processArray [2553]:false
+
+
+Before releasing  booleanArray [4637]:true
+Before releasing  processArray [4637]:true
+PID 4637 is released.
+After releasing  booleanArray [4637]:false
+After releasing  processArray [4637]:false
+
+
+Before releasing  booleanArray [4924]:true
+Before releasing  processArray [4924]:true
+PID 4924 is released.
+After releasing  booleanArray [4924]:false
+After releasing  processArray [4924]:false
