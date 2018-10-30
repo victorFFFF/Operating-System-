@@ -1,0 +1,931 @@
+Successful allocation.
+
+Creating a notepad process with pid 1249
+Creating a notepad process with pid 568
+Creating a notepad process with pid 4414
+
+
+Process 1
+Before releasing  booleanArray [1249]:true
+Before releasing  processArray [1249]:true
+PID 1249 is released.
+After releasing  booleanArray [1249]:false
+After releasing  processArray [1249]:false
+
+
+Process 2
+Before releasing  booleanArray [568]:true
+Before releasing  processArray [568]:true
+PID 568 is released.
+After releasing  booleanArray [568]:false
+After releasing  processArray [568]:false
+
+
+Process 3
+Before releasing  booleanArray [4414]:true
+Before releasing  processArray [4414]:true
+PID 4414 is released.
+After releasing  booleanArray [4414]:false
+After releasing  processArray [4414]:false
+
+Creating 100 threads : 
+Thread 1 is created
+Thread 2 is created
+Thread 3 is created
+Requested pid: 4649
+Thread 4 is created
+Requested pid: 2125
+Thread 5 is created
+Requested pid: 4187
+Thread 6 is created
+Requested pid: 2142
+Requested pid: 3818
+Thread 7 is created
+Thread 8 is created
+Thread 9 is created
+Requested pid: 1123
+Thread 10 is created
+Requested pid: 1182
+Requested pid: 3710
+Thread 11 is created
+Thread 12 is created
+Thread 13 is created
+Thread 14 is created
+Thread 15 is created
+Thread 16 is created
+Thread 17 is created
+Thread 18 is created
+Thread 19 is created
+Thread 20 is created
+Thread 21 is created
+Thread 22 is created
+Thread 23 is created
+Thread 24 is created
+Thread 25 is created
+Thread 26 is created
+Thread 27 is created
+Thread 28 is created
+Thread 29 is created
+Thread 30 is created
+Thread 31 is created
+Thread 32 is created
+Thread 33 is created
+Thread 34 is created
+Thread 35 is created
+Thread 36 is created
+Thread 37 is created
+Thread 38 is created
+Thread 39 is created
+Thread 40 is created
+Requested pid: 3585
+Thread 41 is created
+Thread 42 is created
+Thread 43 is created
+Thread 44 is created
+Thread 45 is created
+Thread 46 is created
+Thread 47 is created
+Thread 48 is created
+Thread 49 is created
+Thread 50 is created
+Thread 51 is created
+Thread 52 is created
+Thread 53 is created
+Thread 54 is created
+Thread 55 is created
+Thread 56 is created
+Thread 57 is created
+Thread 58 is created
+Thread 59 is created
+Thread 60 is created
+Thread 61 is created
+Thread 62 is created
+Thread 63 is created
+Thread 64 is created
+Thread 65 is created
+Thread 66 is created
+Thread 67 is created
+Thread 68 is created
+Thread 69 is created
+Thread 70 is created
+Thread 71 is created
+Thread 72 is created
+Thread 73 is created
+Thread 74 is created
+Thread 75 is created
+Thread 76 is created
+Requested pid: 3815
+Thread 77 is created
+Thread 78 is created
+Thread 79 is created
+Thread 80 is created
+Thread 81 is created
+Thread 82 is created
+Requested pid: 2275
+Thread 83 is created
+Thread 84 is created
+Requested pid: 3657
+Thread 85 is created
+Requested pid: 3406
+Thread 86 is created
+Thread 87 is created
+Requested pid: 4420
+Thread 88 is created
+Requested pid: 2362
+Thread 89 is created
+Thread 90 is created
+Requested pid: 1069
+Thread 91 is created
+Requested pid: 1349
+Thread 92 is created
+Thread 93 is created
+Requested pid: 3262
+Thread 94 is created
+Requested pid: 2600
+Thread 95 is created
+Thread 96 is created
+Thread 97 is created
+Thread 98 is created
+Thread 99 is created
+Thread 100 is created
+Requested pid: 3957
+Requested pid: 1088
+Requested pid: 3455
+Requested pid: 4451
+Requested pid: 2643
+Requested pid: 3199
+Requested pid: 3366
+Requested pid: 1582
+Requested pid: 1068
+Requested pid: 4442
+Requested pid: 2725
+Requested pid: 4421
+Requested pid: 3678
+Requested pid: 569
+Requested pid: 4065
+Requested pid: 4821
+Requested pid: 4106
+Requested pid: 1719
+Requested pid: 3646
+Requested pid: 1337
+Requested pid: 3081
+Requested pid: 4942
+Requested pid: 931
+Requested pid: 2723
+Requested pid: 3854
+Requested pid: 4653
+Requested pid: 3390
+Requested pid: 3508
+Requested pid: 339
+Requested pid: 3080
+Requested pid: 4226
+Requested pid: 2988
+Requested pid: 4141
+Requested pid: 563
+Requested pid: 1734
+Requested pid: 1336
+Requested pid: 4064
+Requested pid: 4136
+Requested pid: 4581
+Requested pid: 1281
+Requested pid: 4505
+Requested pid: 573
+Requested pid: 3456
+Requested pid: 2909
+Requested pid: 1050
+Requested pid: 3157
+Requested pid: 3120
+Requested pid: 1242
+Requested pid: 4711
+Requested pid: 2621
+Requested pid: 3298
+Requested pid: 345
+Requested pid: 4684
+Requested pid: 690
+Requested pid: 3232
+Requested pid: 2670
+Requested pid: 4257
+Requested pid: 2336
+Requested pid: 4531
+Requested pid: 1744
+Requested pid: 500
+Requested pid: 3738
+Requested pid: 4453
+Requested pid: 415
+Requested pid: 4212
+Requested pid: 1537
+Requested pid: 2105
+Requested pid: 871
+Requested pid: 3524
+Requested pid: 2027
+Requested pid: 1926
+Requested pid: 3554
+Requested pid: 2543
+Requested pid: 722
+Requested pid: 464
+Requested pid: 3741
+Requested pid: 1386
+Requested pid: 3605
+Requested pid: 3690
+Requested pid: 1840
+Requested pid: 604
+
+
+Before releasing thread 1 with pid 3815: true
+PID 3815 is released.
+After releasing thread 1 with pid 3815: false
+
+
+
+
+Before releasing thread 2 with pid 3508: true
+PID 3508 is released.
+After releasing thread 2 with pid 3508: false
+
+
+
+
+Before releasing thread 3 with pid 4942: true
+PID 4942 is released.
+After releasing thread 3 with pid 4942: false
+
+
+
+
+Before releasing thread 4 with pid 563: true
+PID 563 is released.
+After releasing thread 4 with pid 563: false
+
+
+
+
+Before releasing thread 5 with pid 3585: true
+PID 3585 is released.
+After releasing thread 5 with pid 3585: false
+
+
+
+
+Before releasing thread 6 with pid 4505: true
+PID 4505 is released.
+After releasing thread 6 with pid 4505: false
+
+
+
+
+Before releasing thread 7 with pid 4257: true
+PID 4257 is released.
+After releasing thread 7 with pid 4257: false
+
+
+
+
+Before releasing thread 8 with pid 2362: true
+PID 2362 is released.
+After releasing thread 8 with pid 2362: false
+
+
+
+
+Before releasing thread 9 with pid 1719: true
+PID 1719 is released.
+After releasing thread 9 with pid 1719: false
+
+
+
+
+Before releasing thread 10 with pid 1537: true
+PID 1537 is released.
+After releasing thread 10 with pid 1537: false
+
+
+
+
+Before releasing thread 11 with pid 4649: true
+PID 4649 is released.
+After releasing thread 11 with pid 4649: false
+
+
+
+
+Before releasing thread 12 with pid 4212: true
+PID 4212 is released.
+After releasing thread 12 with pid 4212: false
+
+
+
+
+Before releasing thread 13 with pid 2543: true
+PID 2543 is released.
+After releasing thread 13 with pid 2543: false
+
+
+
+
+Before releasing thread 14 with pid 3456: true
+PID 3456 is released.
+After releasing thread 14 with pid 3456: false
+
+
+
+
+Before releasing thread 15 with pid 1926: true
+PID 1926 is released.
+After releasing thread 15 with pid 1926: false
+
+
+
+
+Before releasing thread 16 with pid 3232: true
+PID 3232 is released.
+After releasing thread 16 with pid 3232: false
+
+
+
+
+Before releasing thread 17 with pid 569: true
+PID 569 is released.
+After releasing thread 17 with pid 569: false
+
+
+
+
+Before releasing thread 18 with pid 2600: true
+PID 2600 is released.
+After releasing thread 18 with pid 2600: false
+
+
+
+
+Before releasing thread 19 with pid 4226: true
+PID 4226 is released.
+After releasing thread 19 with pid 4226: false
+
+
+
+
+Before releasing thread 20 with pid 4442: true
+PID 4442 is released.
+After releasing thread 20 with pid 4442: false
+
+
+
+
+
+
+Before releasing thread 21 with pid 3605: true
+Before releasing thread 21 with pid 3854: true
+PID 3605 is released.
+PID 3854 is released.
+After releasing thread 21 with pid 3854: false
+
+
+After releasing thread 21 with pid 3605: false
+
+
+
+
+Before releasing thread 23 with pid 4065: true
+PID 4065 is released.
+After releasing thread 23 with pid 4065: false
+
+
+
+
+Before releasing thread 24 with pid 345: true
+PID 345 is released.
+After releasing thread 24 with pid 345: false
+
+
+
+
+Before releasing thread 25 with pid 1182: true
+PID 1182 is released.
+After releasing thread 25 with pid 1182: false
+
+
+
+
+Before releasing thread 26 with pid 3390: true
+PID 3390 is released.
+After releasing thread 26 with pid 3390: false
+
+
+
+
+Before releasing thread 27 with pid 2027: true
+PID 2027 is released.
+After releasing thread 27 with pid 2027: false
+
+
+
+
+Before releasing thread 28 with pid 500: true
+PID 500 is released.
+After releasing thread 28 with pid 500: false
+
+
+
+
+Before releasing thread 29 with pid 2643: true
+PID 2643 is released.
+After releasing thread 29 with pid 2643: false
+
+
+
+
+Before releasing thread 30 with pid 1840: true
+PID 1840 is released.
+After releasing thread 30 with pid 1840: false
+
+
+
+
+Before releasing thread 31 with pid 4531: true
+PID 4531 is released.
+After releasing thread 31 with pid 4531: false
+
+
+
+
+
+
+Before releasing thread 32 with pid 2125: true
+Before releasing thread 32 with pid 2336: true
+PID 2125 is released.
+PID 2336 is released.
+After releasing thread 32 with pid 2336: false
+After releasing thread 32 with pid 2125: false
+
+
+
+
+
+
+Before releasing thread 34 with pid 4064: true
+PID 4064 is released.
+After releasing thread 34 with pid 4064: false
+
+
+
+
+Before releasing thread 35 with pid 4453: true
+PID 4453 is released.
+After releasing thread 35 with pid 4453: false
+
+
+
+
+Before releasing thread 36 with pid 4187: true
+PID 4187 is released.
+After releasing thread 36 with pid 4187: false
+
+
+
+
+Before releasing thread 37 with pid 3818: true
+PID 3818 is released.
+After releasing thread 37 with pid 3818: false
+
+
+
+
+Before releasing thread 38 with pid 3678: true
+PID 3678 is released.
+After releasing thread 38 with pid 3678: false
+
+
+
+
+Before releasing thread 39 with pid 3455: true
+PID 3455 is released.
+
+
+After releasing thread 39 with pid 3455: false
+
+
+Before releasing thread 39 with pid 1337: true
+PID 1337 is released.
+After releasing thread 40 with pid 1337: false
+
+
+
+
+Before releasing thread 41 with pid 2909: true
+PID 2909 is released.
+After releasing thread 41 with pid 2909: false
+
+
+
+
+Before releasing thread 42 with pid 3120: true
+PID 3120 is released.
+After releasing thread 42 with pid 3120: false
+
+
+
+
+Before releasing thread 43 with pid 3157: true
+PID 3157 is released.
+After releasing thread 43 with pid 3157: false
+
+
+
+
+Before releasing thread 44 with pid 415: true
+PID 415 is released.
+After releasing thread 44 with pid 415: false
+
+
+
+
+Before releasing thread 45 with pid 1582: true
+PID 1582 is released.
+After releasing thread 45 with pid 1582: false
+
+
+
+
+Before releasing thread 46 with pid 3524: true
+PID 3524 is released.
+After releasing thread 46 with pid 3524: false
+
+
+
+
+Before releasing thread 47 with pid 3741: true
+PID 3741 is released.
+After releasing thread 47 with pid 3741: false
+
+
+
+
+Before releasing thread 48 with pid 3262: true
+PID 3262 is released.
+After releasing thread 48 with pid 3262: false
+
+
+
+
+Before releasing thread 49 with pid 1242: true
+PID 1242 is released.
+After releasing thread 49 with pid 1242: false
+
+
+
+
+Before releasing thread 50 with pid 2670: true
+PID 2670 is released.
+After releasing thread 50 with pid 2670: false
+
+
+
+
+Before releasing thread 51 with pid 1123: true
+PID 1123 is released.
+After releasing thread 51 with pid 1123: false
+
+
+
+
+Before releasing thread 52 with pid 3738: true
+PID 3738 is released.
+After releasing thread 52 with pid 3738: false
+
+
+
+
+Before releasing thread 53 with pid 3690: true
+PID 3690 is released.
+After releasing thread 53 with pid 3690: false
+
+
+
+
+Before releasing thread 54 with pid 2988: true
+PID 2988 is released.
+After releasing thread 54 with pid 2988: false
+
+
+
+
+Before releasing thread 55 with pid 1068: true
+PID 1068 is released.
+After releasing thread 55 with pid 1068: false
+
+
+
+
+Before releasing thread 56 with pid 4141: true
+PID 4141 is released.
+After releasing thread 56 with pid 4141: false
+
+
+
+
+Before releasing thread 57 with pid 3406: true
+PID 3406 is released.
+After releasing thread 57 with pid 3406: false
+
+
+
+
+Before releasing thread 58 with pid 1281: true
+PID 1281 is released.
+After releasing thread 58 with pid 1281: false
+
+
+
+
+Before releasing thread 59 with pid 573: true
+PID 573 is released.
+After releasing thread 59 with pid 573: false
+
+
+
+
+Before releasing thread 60 with pid 3081: true
+PID 3081 is released.
+After releasing thread 60 with pid 3081: false
+
+
+
+
+Before releasing thread 61 with pid 604: true
+PID 604 is released.
+After releasing thread 61 with pid 604: false
+
+
+
+
+Before releasing thread 62 with pid 1734: true
+PID 1734 is released.
+After releasing thread 62 with pid 1734: false
+
+
+
+
+Before releasing thread 63 with pid 3657: true
+PID 3657 is released.
+After releasing thread 63 with pid 3657: false
+
+
+
+
+Before releasing thread 64 with pid 3199: true
+PID 3199 is released.
+After releasing thread 64 with pid 3199: false
+
+
+
+
+Before releasing thread 65 with pid 690: true
+PID 690 is released.
+After releasing thread 65 with pid 690: false
+
+
+
+
+Before releasing thread 66 with pid 3646: true
+PID 3646 is released.
+After releasing thread 66 with pid 3646: false
+
+
+
+
+Before releasing thread 67 with pid 3298: true
+PID 3298 is released.
+After releasing thread 67 with pid 3298: false
+
+
+
+
+Before releasing thread 68 with pid 3366: true
+PID 3366 is released.
+After releasing thread 68 with pid 3366: false
+
+
+
+
+Before releasing thread 69 with pid 1744: true
+PID 1744 is released.
+After releasing thread 69 with pid 1744: false
+
+
+
+
+Before releasing thread 70 with pid 1386: true
+PID 1386 is released.
+After releasing thread 70 with pid 1386: false
+
+
+
+
+Before releasing thread 71 with pid 4421: true
+PID 4421 is released.
+After releasing thread 71 with pid 4421: false
+
+
+
+
+Before releasing thread 72 with pid 3710: true
+PID 3710 is released.
+After releasing thread 72 with pid 3710: false
+
+
+
+
+Before releasing thread 73 with pid 4136: true
+PID 4136 is released.
+After releasing thread 73 with pid 4136: false
+
+
+
+
+Before releasing thread 74 with pid 4106: true
+PID 4106 is released.
+After releasing thread 74 with pid 4106: false
+
+
+
+
+Before releasing thread 75 with pid 2275: true
+PID 2275 is released.
+After releasing thread 75 with pid 2275: false
+
+
+
+
+Before releasing thread 76 with pid 1336: true
+PID 1336 is released.
+After releasing thread 76 with pid 1336: false
+
+
+
+
+Before releasing thread 77 with pid 1069: true
+PID 1069 is released.
+After releasing thread 77 with pid 1069: false
+
+
+
+
+Before releasing thread 78 with pid 722: true
+PID 722 is released.
+After releasing thread 78 with pid 722: false
+
+
+
+
+Before releasing thread 79 with pid 2621: true
+PID 2621 is released.
+After releasing thread 79 with pid 2621: false
+
+
+
+
+Before releasing thread 80 with pid 2105: true
+PID 2105 is released.
+After releasing thread 80 with pid 2105: false
+
+
+
+
+Before releasing thread 81 with pid 4420: true
+PID 4420 is released.
+After releasing thread 81 with pid 4420: false
+
+
+
+
+Before releasing thread 82 with pid 1349: true
+PID 1349 is released.
+After releasing thread 82 with pid 1349: false
+
+
+
+
+Before releasing thread 83 with pid 4711: true
+PID 4711 is released.
+After releasing thread 83 with pid 4711: false
+
+
+
+
+Before releasing thread 84 with pid 4821: true
+PID 4821 is released.
+After releasing thread 84 with pid 4821: false
+
+
+
+
+Before releasing thread 85 with pid 464: true
+PID 464 is released.
+After releasing thread 85 with pid 464: false
+
+
+
+
+Before releasing thread 86 with pid 339: true
+PID 339 is released.
+After releasing thread 86 with pid 339: false
+
+
+
+
+Before releasing thread 87 with pid 4581: true
+PID 4581 is released.
+After releasing thread 87 with pid 4581: false
+
+
+
+
+Before releasing thread 88 with pid 4451: true
+PID 4451 is released.
+After releasing thread 88 with pid 4451: false
+
+
+
+
+Before releasing thread 89 with pid 4684: true
+PID 4684 is released.
+After releasing thread 89 with pid 4684: false
+
+
+
+
+Before releasing thread 90 with pid 871: true
+PID 871 is released.
+After releasing thread 90 with pid 871: false
+
+
+
+
+Before releasing thread 91 with pid 2725: true
+PID 2725 is released.
+After releasing thread 91 with pid 2725: false
+
+
+
+
+Before releasing thread 92 with pid 4653: true
+PID 4653 is released.
+After releasing thread 92 with pid 4653: false
+
+
+
+
+Before releasing thread 93 with pid 931: true
+PID 931 is released.
+After releasing thread 93 with pid 931: false
+
+
+
+
+Before releasing thread 94 with pid 2142: true
+PID 2142 is released.
+After releasing thread 94 with pid 2142: false
+
+
+
+
+Before releasing thread 95 with pid 1050: true
+PID 1050 is released.
+After releasing thread 95 with pid 1050: false
+
+
+
+
+Before releasing thread 96 with pid 2723: true
+PID 2723 is released.
+After releasing thread 96 with pid 2723: false
+
+
+
+
+Before releasing thread 97 with pid 3080: true
+PID 3080 is released.
+After releasing thread 97 with pid 3080: false
+
+
+
+
+Before releasing thread 98 with pid 3957: true
+PID 3957 is released.
+After releasing thread 98 with pid 3957: false
+
+
+
+
+Before releasing thread 99 with pid 3554: true
+PID 3554 is released.
+After releasing thread 99 with pid 3554: false
+
+
+
+
+Before releasing thread 100 with pid 1088: true
+PID 1088 is released.
+After releasing thread 100 with pid 1088: false
+
+
