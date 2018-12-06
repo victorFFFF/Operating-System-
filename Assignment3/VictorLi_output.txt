@@ -1,0 +1,151 @@
+MAIN THREAD EXECUTING: Successful allocation.
+
+MAIN THREAD EXECUTING: Creating a notepad process with pid 1985
+MAIN THREAD EXECUTING: Creating a notepad process with pid 2203
+MAIN THREAD EXECUTING: Creating a notepad process with pid 1124
+
+
+MAIN THREAD EXECUTING: Process 1
+MAIN THREAD EXECUTING: Before releasing  booleanArray [1985]:true
+MAIN THREAD EXECUTING: Before releasing  processArray [1985]:true
+PID 1985 is released.
+MAIN THREAD EXECUTING: After releasing  booleanArray [1985]:false
+MAIN THREAD EXECUTING: After releasing  processArray [1985]:false
+
+
+MAIN THREAD EXECUTING: Process 2
+MAIN THREAD EXECUTING: Before releasing  booleanArray [2203]:true
+MAIN THREAD EXECUTING: Before releasing  processArray [2203]:true
+PID 2203 is released.
+MAIN THREAD EXECUTING: After releasing  booleanArray [2203]:false
+MAIN THREAD EXECUTING: After releasing  processArray [2203]:false
+
+
+MAIN THREAD EXECUTING: Process 3
+MAIN THREAD EXECUTING: Before releasing  booleanArray [1124]:true
+MAIN THREAD EXECUTING: Before releasing  processArray [1124]:true
+PID 1124 is released.
+MAIN THREAD EXECUTING: After releasing  booleanArray [1124]:false
+MAIN THREAD EXECUTING: After releasing  processArray [1124]:false
+
+MAIN THREAD EXECUTION: Creating 10 threads : 
+MAIN THREAD EXECUTING: Thread 1 is created
+MAIN THREAD EXECUTING: Thread 2 is created
+MAIN THREAD EXECUTING: Thread 3 is created
+
+THREAD 1 EXECUTING: Locking.
+MAIN THREAD EXECUTING: Thread 4 is created
+
+THREAD 1 EXECUTING: Requested pid: 1611
+MAIN THREAD EXECUTING: Thread 5 is created
+MAIN THREAD EXECUTING: Thread 6 is created
+MAIN THREAD EXECUTING: Thread 7 is created
+MAIN THREAD EXECUTING: Thread 8 is created
+MAIN THREAD EXECUTING: Thread 9 is created
+MAIN THREAD EXECUTING: Thread 10 is created
+THREAD 1 EXECUTING: Before thread 1 with pid 1611: true
+THREAD 1 EXECUTING: PID 1611 is released.
+THREAD 1 EXECUTING: After thread 1 with pid 1611: false
+
+THREAD 1 EXECUTING:  Unlocking.
+
+===================================================================
+
+THREAD 2 EXECUTING: Locking.
+
+THREAD 2 EXECUTING: Requested pid: 1080
+THREAD 2 EXECUTING: Before thread 2 with pid 1080: true
+THREAD 2 EXECUTING: PID 1080 is released.
+THREAD 2 EXECUTING: After thread 2 with pid 1080: false
+
+THREAD 2 EXECUTING:  Unlocking.
+
+===================================================================
+
+THREAD 3 EXECUTING: Locking.
+
+THREAD 3 EXECUTING: Requested pid: 3943
+THREAD 3 EXECUTING: Before thread 3 with pid 3943: true
+THREAD 3 EXECUTING: PID 3943 is released.
+THREAD 3 EXECUTING: After thread 3 with pid 3943: false
+
+THREAD 3 EXECUTING:  Unlocking.
+
+===================================================================
+
+THREAD 4 EXECUTING: Locking.
+
+THREAD 4 EXECUTING: Requested pid: 1036
+THREAD 4 EXECUTING: Before thread 4 with pid 1036: true
+THREAD 4 EXECUTING: PID 1036 is released.
+THREAD 4 EXECUTING: After thread 4 with pid 1036: false
+
+THREAD 4 EXECUTING:  Unlocking.
+
+===================================================================
+
+THREAD 5 EXECUTING: Locking.
+
+THREAD 5 EXECUTING: Requested pid: 2022
+THREAD 5 EXECUTING: Before thread 5 with pid 2022: true
+THREAD 5 EXECUTING: PID 2022 is released.
+THREAD 5 EXECUTING: After thread 5 with pid 2022: false
+
+THREAD 5 EXECUTING:  Unlocking.
+
+===================================================================
+
+THREAD 6 EXECUTING: Locking.
+
+THREAD 6 EXECUTING: Requested pid: 645
+THREAD 6 EXECUTING: Before thread 6 with pid 645: true
+THREAD 6 EXECUTING: PID 645 is released.
+THREAD 6 EXECUTING: After thread 6 with pid 645: false
+
+THREAD 6 EXECUTING:  Unlocking.
+
+===================================================================
+
+THREAD 7 EXECUTING: Locking.
+
+THREAD 7 EXECUTING: Requested pid: 2285
+THREAD 7 EXECUTING: Before thread 7 with pid 2285: true
+THREAD 7 EXECUTING: PID 2285 is released.
+THREAD 7 EXECUTING: After thread 7 with pid 2285: false
+
+THREAD 7 EXECUTING:  Unlocking.
+
+===================================================================
+
+THREAD 8 EXECUTING: Locking.
+
+THREAD 8 EXECUTING: Requested pid: 2322
+THREAD 8 EXECUTING: Before thread 8 with pid 2322: true
+THREAD 8 EXECUTING: PID 2322 is released.
+THREAD 8 EXECUTING: After thread 8 with pid 2322: false
+
+THREAD 8 EXECUTING:  Unlocking.
+
+===================================================================
+
+THREAD 9 EXECUTING: Locking.
+
+THREAD 9 EXECUTING: Requested pid: 2314
+THREAD 9 EXECUTING: Before thread 9 with pid 2314: true
+THREAD 9 EXECUTING: PID 2314 is released.
+THREAD 9 EXECUTING: After thread 9 with pid 2314: false
+
+THREAD 9 EXECUTING:  Unlocking.
+
+===================================================================
+
+THREAD 10 EXECUTING: Locking.
+
+THREAD 10 EXECUTING: Requested pid: 3512
+THREAD 10 EXECUTING: Before thread 10 with pid 3512: true
+THREAD 10 EXECUTING: PID 3512 is released.
+THREAD 10 EXECUTING: After thread 10 with pid 3512: false
+
+THREAD 10 EXECUTING:  Unlocking.
+
+===================================================================
