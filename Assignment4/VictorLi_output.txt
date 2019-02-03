@@ -1,0 +1,57 @@
+Requesting position: 228
+Requesting position: 4155
+Requesting position: 1252
+Requesting position: 892
+Requesting position: 605
+Requesting position: 4391
+Requesting position: 125
+Requesting position: 4931
+Requesting position: 1917
+Requesting position: 1717
+Requesting position: 1207
+Requesting position: 1900
+Requesting position: 1270
+Requesting position: 2550
+Requesting position: 1368
+Requesting position: 107
+Requesting position: 552
+Requesting position: 2282
+Requesting position: 1862
+Requesting position: 1978
+Requesting position: 2484
+Requesting position: 3177
+Requesting position: 2914
+Requesting position: 2209
+Requesting position: 2181
+Requesting position: 1441
+Requesting position: 2013
+Requesting position: 2320
+Requesting position: 3184
+Requesting position: 2516
+Requesting position: 4575
+Requesting position: 4148
+Requesting position: 436
+Requesting position: 581
+Requesting position: 4278
+Requesting position: 4785
+Requesting position: 2820
+Requesting position: 454
+Requesting position: 291
+Requesting position: 2482
+Requesting position: 1138
+Requesting position: 1193
+Requesting position: 4553
+Requesting position: 3994
+Requesting position: 3118
+Requesting position: 2946
+Requesting position: 2855
+Requesting position: 2174
+Requesting position: 1899
+Requesting position: 1781
+	
+Using FCFS algorithm
+FCFS total movement: 62697
+Using SCAN algorithm
+SCAN total movement: 5717
+Using C_SCAN algorithm
+C_SCAN total movement: 9753
